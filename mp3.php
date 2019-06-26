@@ -1,6 +1,6 @@
 <?php
  echo "\e[91;1mSiapa anda?\n";
- sleep(1);
+ sleep(2);
  echo "Anda telah menjalankan script saya\n";
  sleep(3);
  echo "--------------------------------------\n";
