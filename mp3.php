@@ -9,6 +9,6 @@
  echo "|                                    |\n";
  echo "--------------------------------------\n";
  sleep(5);
- echo "\e[32m Wkwkwk\n";
+ echo "\e[1;34m Wkwkwk\n";
  echo "\e[0m";
  ?>
