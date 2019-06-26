@@ -1,5 +1,5 @@
 <?php
- echo 'Siapa anda?'\n;
+ echo "Siapa anda?\n";
  echo 'Anda telah menjalankan script saya';
  echo '--------------------------------------';
  echo '|                                    |';
